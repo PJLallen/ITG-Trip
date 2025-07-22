@@ -1,6 +1,8 @@
 # [TMI'25] Instrument-Tissue-Guided Surgical Action Triplet Detection via Textual-Temporal Trail Exploration
 
-
+<p align="center">
+<img src="assets/Teaser.png" alt="intro" width="100%"/>
+</p>
 
 Official Implementation of "[Instrument-Tissue-Guided Surgical Action Triplet Detection via Textual-Temporal Trail Exploration](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11084985)" 
 
