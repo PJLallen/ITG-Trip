@@ -12,16 +12,20 @@ Official Implementation of "[Instrument-Tissue-Guided Surgical Action Triplet De
 
 ## Qualitative results
 
+<p align="center">
+<img src="assets/result.png" alt="intro" width="100%"/>
+</p>
 
-## Citation
-If you find the code useful, please cite our paper.
-```latex
-@article{zhou2025landmark,
-  title={Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection},
-  author={Zhou, Jun and Gao, Bingchen and Wang, Kai and Pei, Jialun and Heng, Pheng-Ann and Qin, Jing},
+## 📚 Citation
+
+If this helps you, please cite this work:
+
+```bibtex
+@article{pei2025str,
+  title={Instrument-Tissue-Guided Surgical Action Triplet Detection via Textual-Temporal Trail Exploration},
+  author={Pei, Jialun and Zhang, Jiaan and Qin, Guanyi and Wang, Kai and Jin, Yueming and Heng, Pheng-Ann},
   journal={IEEE Transactions on Medical Imaging},
-  year={2025},
-  publisher={IEEE}
+  year={2025}
 }
 ```
 
