@@ -38,4 +38,4 @@ If this helps you, please cite this work:
 
 ## Acknowledgment
 
-This work is based on [GEN-VLKT](https://github.com/YueLiao/gen-vlkt). We sincerely thank them for their great work and contributions to the community!
+This work is based on [GEN-VLKT](https://github.com/YueLiao/gen-vlkt). Thanks for their great work and contributions to the community!
