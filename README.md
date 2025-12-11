@@ -16,6 +16,13 @@ Official Implementation of "[Instrument-Tissue-Guided Surgical Action Triplet De
 <img src="assets/result.png" alt="intro" width="100%"/>
 </p>
 
+## Installation
+
+
+## Register Datasets
+
+## Train
+
 ## 📚 Citation
 
 If this helps you, please cite this work:
@@ -30,3 +37,5 @@ If this helps you, please cite this work:
 ```
 
 ## Acknowledgment
+
+This work is based on [GEN-VLKT](https://github.com/YueLiao/gen-vlkt). We sincerely thank them for their great work and contributions to the community!
