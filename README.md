@@ -18,10 +18,21 @@ Official Implementation of "[Instrument-Tissue-Guided Surgical Action Triplet De
 
 ## Installation
 
+Conda virtual environment
+
+We recommend using conda to setup the environment.
+
+We tested the code on python 3.8 and pytorch '1.10.1+cu111'.
 
 ## Register Datasets
 
 ## Train
+
+After the preparation, you can start training with the following commands.
+
+```
+sh ./config/hico_s.sh
+```
 
 ## 📚 Citation
 
