@@ -24,6 +24,19 @@ We recommend using conda to setup the environment.
 
 We tested the code on python 3.8 and pytorch '1.10.1+cu111'.
 
+Installl the dependencies.
+```
+pip install -r requirements.txt
+```
+Clone and build CLIP.
+```
+git clone https://github.com/openai/CLIP.git && cd CLIP && python setup.py develop && cd ..
+```
+Install causal_conv1d and mamba
+```
+pip install -e causal_conv1d>=1.1.0
+pip install -e mamba-1p1p1
+```
 ## Register Datasets
 
 ## Train
