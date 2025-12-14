@@ -41,10 +41,6 @@ pip install -e mamba-1p1p1
 
 Download the cholect50 dataset, you can download it here [cholect50](https://github.com/CAMMA-public/cholect50)
 
-```
-my-project/ ├── README.md ├── src/ │ ├── main.py │ └── utils.py ├── tests/ │ └── test_main.py └── requirements.txt
-```
-
 ## Train
 
 After the preparation, you can start training with the following commands.
