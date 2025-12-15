@@ -46,9 +46,12 @@ Download the cholect50 dataset, you can download it here [cholect50](https://git
     ├── images
     │   ├── train/
     │   │   ├── VID01/
-    |   |   |    ├──image01.jpg
+    |   |   |    ├──000000.png
+    |   |   |    ├──000001.png
+    |   |   |    ...
     │   │   ├── VID02/
     │   │   ...
+    │   │   └── VID80/
     ├── annotations
     │   └── train.json
  ```
