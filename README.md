@@ -39,7 +39,8 @@ pip install -e mamba-1p1p1
 ```
 ## Register Datasets
 
-Download the cholect50 dataset, you can download it here [cholect50](https://github.com/CAMMA-public/cholect50)
+Download the cholect50 dataset, you can download it here [cholect50](https://github.com/CAMMA-public/cholect50).
+
 The downloaded annotation files should be placed as follows.
 
 ```
