@@ -42,24 +42,16 @@ pip install -e mamba-1p1p1
 Download the cholect50 dataset, you can download it here [cholect50](https://github.com/CAMMA-public/cholect50)
 
 ```
-├── P2I-LReg Dataset
-    ├── 01
-    │   ├── model/
-    │   ├── real/
-    │   │   ├── labels/
-    │   │   ├── liverPcds/
-    │   │   ├── scale/
-    │   │   └── CAM_K.yml
-    │   ├── syn/
-    │   │   ├── labels/
-    │   │   ├── liverPcds/
-    │   │   ├── CAM_K.yml
-    │   │   └── camPose.yml
-    │   ├── train/test.txt
-    ├── 02
-    │   └── ...
-    ├── ...
-```
+├── CholecT50 Dataset
+    ├── images
+    │   ├── train/
+    │   │   ├── VID01/
+    |   |   |    ├──image01.jpg
+    │   │   ├── VID02/
+    │   │   ...
+    ├── annotations
+    │   └── train.json
+ ```
 
 ## Train
 
