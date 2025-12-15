@@ -1,4 +1,4 @@
-# [TMI'25] Instrument-Tissue-Guided Surgical Action Triplet Detection via Textual-Temporal Trail Exploration
+#z[TMI'25] Instrument-Tissue-Guided Surgical Action Triplet Detection via Textual-Temporal Trail Explorati
 
 <p align="center">
 <img src="assets/Teaser.png" alt="intro" width="80%"/>
@@ -40,6 +40,26 @@ pip install -e mamba-1p1p1
 ## Register Datasets
 
 Download the cholect50 dataset, you can download it here [cholect50](https://github.com/CAMMA-public/cholect50)
+
+```
+├── P2I-LReg Dataset
+    ├── 01
+    │   ├── model/
+    │   ├── real/
+    │   │   ├── labels/
+    │   │   ├── liverPcds/
+    │   │   ├── scale/
+    │   │   └── CAM_K.yml
+    │   ├── syn/
+    │   │   ├── labels/
+    │   │   ├── liverPcds/
+    │   │   ├── CAM_K.yml
+    │   │   └── camPose.yml
+    │   ├── train/test.txt
+    ├── 02
+    │   └── ...
+    ├── ...
+```
 
 ## Train
 
