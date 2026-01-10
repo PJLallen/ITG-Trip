@@ -18,7 +18,7 @@ class anno_formatter:
         cholec_dir: str,
         output_dir_name: str,
         detr_bbox_dir: str,
-        files_count_hinter: int = 45,
+        files_count_hinter: int = 40,
     ) -> None:
         self.cholec_dir = cholec_dir
 
